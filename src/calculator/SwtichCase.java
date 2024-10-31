@@ -33,7 +33,7 @@ public class SwtichCase
 			System.out.println("you are on sunday");
 			break;
 		default:
-			System.out.println("week testing");
+			System.out.println("wrong testing");
 		
 		}
 	}
